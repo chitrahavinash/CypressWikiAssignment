@@ -4,7 +4,7 @@ Wikipedia assignment in cypress
 
 ## clone this repo to a local directory
 
-git clone https://github.com/<your username>/CypressWikiAssignment.git
+git clone https://github.com/chitrahavinash/CypressWikiAssignment.git
 
 To run the test:
 
